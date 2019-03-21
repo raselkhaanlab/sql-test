@@ -11,7 +11,7 @@
    			<div class="card bg-primary my-2 text-center text-white">
    				<div class="card-body">
    					 <div class="card-text">
-   					 	My-question
+   					 	 <h3>Question</h3>
    					 </div>
    					 <hr>
    					<div class="card-text">
@@ -114,7 +114,7 @@
    		 	
 			<div class="table-responsive">
 				
-				<table class="table table-bordered table-striped table-hover">
+				<table class="table table-bordered table-striped table-danger">
 					<thead class="thead-dark">
 						<tr><td colspan="4" class="text-center">Result table</td></tr>
 						<tr>
